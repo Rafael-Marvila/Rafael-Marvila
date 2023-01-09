@@ -8,7 +8,7 @@
   "My age": '28',
   "Current Position": 'Sr. Data Engineer',
   "My hobbies": 'All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family',
-  "Personal E-mail": 'r.marvilagape@gmail.com',
+  "E-mail": 'r.marvilagape@gmail.com',
   "Twitter": 'oimarvila',
   "Medium": 'https://medium.com/@r.marvilagape'
   }
