@@ -1,5 +1,8 @@
 ## Hi, mon ami 👋
 
+#### I know, it was a mix of english and french - it's because I love french I try get better every day as I'm with english.
+#### Well, if you don't know - "Mon Ami" means in english "My friend" 
+
 #### Well, let's get some coffee and write some amazing code together.
 
 <!--
