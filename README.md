@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, mon ami 👋
 
 #### Well, let's get some coffee and write some amazing code together.
 
