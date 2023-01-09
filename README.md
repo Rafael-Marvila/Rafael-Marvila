@@ -2,10 +2,10 @@
 
  #### Well, let's get some coffee and write some amazing code together.
  
- ```yaml
-{"My nationality": "Brazilian",
+ ```json
+{"My nationality": 'Brazilian',
  "My age": 28,
- "My hobbies: "All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family"}
+ "My hobbies: 'All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family'}
 ```
 
 <!--
