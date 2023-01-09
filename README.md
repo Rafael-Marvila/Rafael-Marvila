@@ -1,6 +1,6 @@
 ## Hi, mon ami 👋
 
-#### ☺️ I little bit about myself:
+#### I little bit about myself:
 
   ```javascript
 {
@@ -14,7 +14,7 @@
   }
 ```
 
-#### Well, let's get some coffee and write some amazing code together.
+#### Well, let's get some coffee and write some amazing code together ☺️
 
 <!--
 **Rafael-Marvila/Rafael-Marvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
