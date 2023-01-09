@@ -3,11 +3,15 @@
  #### Well, let's get some coffee and write some amazing code together.
  
  ```javascript
-{ "My nationality": "Brazilian",
-  "My age": 28,
-  "My hobbies: "'All interesting things,
-                but the best is: Read HQs, Mangas, Write artciles and have quality time with my family.'"}
+{"My nationality": "Brazilian",
+ "My age": 28,
+ "My hobbies: "All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family"}
 ```
+
+```yaml
+{
+   "this-json": "looks awesome..."
+}
 
 <!--
 **Rafael-Marvila/Rafael-Marvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
