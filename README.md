@@ -3,9 +3,11 @@
  #### Well, let's get some coffee and write some amazing code together.
  
  ```javascript
-{"My nationality": 'Brazilian',
+{"Nationality": 'Brazilian',
   "My age": '28',
-  "My hobbies: 'All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family'
+  "Current Position": 'Sr. Data Engineer',
+  "My hobbies: 'All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family',
+  'Personal E-mail: r.marvilagape@gmail.com
   }
 ```
 
