@@ -3,7 +3,8 @@
  #### Well, let's get some coffee and write some amazing code together.
  
  ```javascript
-{"Nationality": 'Brazilian',
+{
+  "Nationality": 'Brazilian',
   "My age": '28',
   "Current Position": 'Sr. Data Engineer',
   "My hobbies": 'All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family',
