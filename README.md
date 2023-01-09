@@ -2,7 +2,7 @@
 
  #### Well, let's get some coffee and write some amazing code together.
  
- ```json
+ ```javascript
 {"My nationality": 'Brazilian',
  "My age": 28,
  "My hobbies: 'All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family'}
