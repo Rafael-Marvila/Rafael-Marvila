@@ -4,8 +4,8 @@
  
  ```javascript
 {"My nationality": 'Brazilian',
- "My age": 28,
- "My hobbies: 'All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family'}
+  "My age": '28',
+  "My hobbies: 'All interesting things! But the best is: Read HQs, Mangas, Write artciles and have quality time with my family'}
 ```
 
 <!--
