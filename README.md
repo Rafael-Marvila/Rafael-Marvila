@@ -1,8 +1,8 @@
 ## Hi, mon ami 👋
 
- #### Well, let's get some coffee and write some amazing code together.
- 
- ```javascript
+## ☺️ I little bit about myself:
+
+  ```javascript
 {
   "Nationality": 'Brazilian',
   "My age": '28',
@@ -13,6 +13,8 @@
   "Medium": 'https://medium.com/@r.marvilagape'
   }
 ```
+
+#### Well, let's get some coffee and write some amazing code together.
 
 <!--
 **Rafael-Marvila/Rafael-Marvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
